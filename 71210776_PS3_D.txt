@@ -1,0 +1,14 @@
+Rumus Faktorial
+n! = n*(n-1)*(n-2)...
+
+function menghitung faktorial
+inisialisasi variabel n
+inisialisasi variabel (n-1)
+inisialisasi variabel (n-2)
+if n<=1
+	result=1
+else
+	result=n*(n-1)*(n-2)...
+end if
+
+ 
