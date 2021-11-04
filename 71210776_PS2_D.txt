@@ -1,0 +1,5 @@
+Berdasarkan gambar dapat ditentukan bahwa gelas yang terisi lebih dahulu
+adalah gelas nomor 4
+karena saluran yang terbuka agar air bisa masuk ke dalam gelas
+hanya nomor 4 yang memiliki saluran yang lancar atau tidak tertutup
+saluran lain tertutup sehingga air tidak bisa mengalir ke gelas
